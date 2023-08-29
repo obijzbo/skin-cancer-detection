@@ -2,6 +2,7 @@
 this repo contains code for skin cancer detection.
 
 ## Installation
+Create a virtual environment from pycharm editor. After activating the virtual environment run the following command.
 ```commandline
 pip install -r requirements.txt
 ```
